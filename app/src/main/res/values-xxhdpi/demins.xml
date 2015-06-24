@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 字体大小 -->
+    <!--特大的字体-->
+    <dimen name="text_size_xh">22sp</dimen>
+    <!--大字体-->
+    <dimen name="text_size_h">20sp</dimen>
+    <!--一般字体-->
+    <dimen name="text_size_m">17sp</dimen>
+    <!--小字体-->
+    <dimen name="text_size_l">15sp</dimen>
+    <!--特小字体-->
+    <dimen name="text_size_xl">11sp</dimen>
+</resources>
